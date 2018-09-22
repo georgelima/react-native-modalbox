@@ -512,4 +512,4 @@ if (!this.props.coverScreen) return content;
 
 });
 
-module.exports = ModalBox;
+export default ModalBox;
